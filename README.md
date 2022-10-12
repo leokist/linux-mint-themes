@@ -1,2 +1,2 @@
 # frost-white
-Linux Mint Cinnamon Theme
+Frost-White: Complete White and Blue Linux Mint Theme
